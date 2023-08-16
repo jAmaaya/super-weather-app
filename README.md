@@ -1,6 +1,6 @@
 # Weather Amaaya App
 
-![Weather Amaaya App](https://user-images.githubusercontent.com/12345678/your-screenshot-link.png)
+![Weather Amaaya App](src/assets/Captura de Pantalla 2023-08-16 a la(s) 10.14.39.png)
 
 Weather Amaaya App is a web application designed to provide you with detailed weather information for a specific location based on latitude and longitude coordinates. It uses a weather forecast API to retrieve accurate and up-to-date data about real-time weather conditions. You can access the live application here: [Weather Amaaya App](https://weather-amaaya-app.netlify.app).
 
